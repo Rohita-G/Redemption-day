@@ -1,4 +1,5 @@
-# F1 Redemption Day Visualizer
-## 🌐 Live Demo
+# 🏎️ F1 Redemption Day – Monaco 2018 Visualizer
 
-👉 [Click here to launch the app](https://rohita-g.streamlit.app)
+A data-driven Streamlit app showing lap times and race positions from the 2018 Monaco Grand Prix.
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://yourusername.streamlit.app)
