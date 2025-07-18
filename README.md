@@ -1,5 +1,4 @@
 # F1 Redemption Day Visualizer
+## 🌐 Live Demo
 
-![Lap Time Graph](images/lap_time_graph.png)
-
-![Animated Race Progression](images/race_progression.gif)
+👉 [Click here to launch the app](https://rohita-g.streamlit.app)
